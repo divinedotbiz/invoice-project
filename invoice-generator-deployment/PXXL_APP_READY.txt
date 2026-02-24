@@ -1,0 +1,19 @@
+========================================
+Simple Invoice Generator
+Production Ready for pxxl.app
+========================================
+
+✅ All files are production-ready
+✅ Zero configuration needed
+✅ Static files only (no build required)
+✅ Ready to upload to pxxl.app
+
+DEPLOYMENT STEPS:
+1. Set index.html as entry point
+2. Upload all files to pxxl.app
+3. Enable static file serving for css/ and js/
+4. Deploy and test
+
+For detailed instructions, see DEPLOYMENT.md
+
+========================================
